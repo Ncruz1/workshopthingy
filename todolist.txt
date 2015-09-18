@@ -1,0 +1,6 @@
+  wake up
+  go back to sleep
+  wake up for sure
+  go take shower
+  get out of shower
+  
